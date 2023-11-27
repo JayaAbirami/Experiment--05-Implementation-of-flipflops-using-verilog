@@ -125,7 +125,7 @@ RegisterNumber: 23004968
 
 ## SR FLIPFLOP:
 ![Exp5 srfp code](https://github.com/JayaAbirami/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151487010/07c79fe7-2fc3-40d0-a154-45fb24897405)
-
+  
 ## RTL LOGIC FOR FLIPFLOP:
 
 ## D FLIPFLOP:
